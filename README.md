@@ -5,15 +5,6 @@ I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and archite
 Join me on this exciting journey of design and structure, where creativity knows no bounds. 
 
 
-### Goals:
-
-- Master CSS for stunning designs.
-- Explore frontend architecture for scalable projects.
-- Stay current with JavaScript advancements.
-
-Let's connect and collaborate!
-
-
 
 <div>
   <a href="https://beacons.ai/anchaapedro">
