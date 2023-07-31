@@ -1,6 +1,9 @@
-## A Frontend Developer's Playground
+## 🌟🌸 Anime Devotee by Day, Code Sorceress by Night 🌙✨ Frontend Ninja | CSS Enthusiast 🎨🔮
 
-Welcome to my GitHub! I'm a frontend developer diving deep into CSS, exploring C programming, and staying up-to-date with the latest JavaScript technologies. Let's learn and build together!
+OHAYOO! 🐉🎌
+I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and architecture! 🏰 With an insatiable thirst for knowledge, I'm eager to unravel the mysteries of React and Vue.js in the near future! 🔍 
+Join me on this exciting journey of design and structure, where creativity knows no bounds. 
+
 
 ### Goals:
 
