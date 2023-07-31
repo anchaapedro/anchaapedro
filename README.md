@@ -17,7 +17,7 @@ Let's connect and collaborate!
 
 <div>
   <a href="https://beacons.ai/anchaapedro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
   
