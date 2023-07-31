@@ -9,7 +9,7 @@ Join me on this exciting journey of design and structure, where creativity knows
 <div>
   <a href="https://beacons.ai/anchaapedro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&langs_count=16&theme=codeSTACKr"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
   
 ##
