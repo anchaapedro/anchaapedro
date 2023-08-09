@@ -1,4 +1,4 @@
-##  Anime Devotee by Day, Code Sorceress by Night 🌙✨ Frontend Ninja | CSS Enthusiast
+##  Anime Devotee by Day, Code Sorceress by Night 🌙✨ 
 
 OHAYOO! 🐉🎌
 I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and architecture! 🏰 With an insatiable thirst for knowledge, I'm eager to unravel the mysteries of React and Vue.js in the near future! 🔍 
