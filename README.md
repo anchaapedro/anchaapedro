@@ -4,12 +4,6 @@ OHAYOO! 🐉🎌
 I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and architecture! 🏰 With an insatiable thirst for knowledge, I'm eager to unravel the mysteries of React and Vue.js in the near future! 🔍 
 Join me on this exciting journey of design and structure, where creativity knows no bounds. 
 
-<div>
-  <a href="https://beacons.ai/anchaapedro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&langs_count=16&theme=monokai"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
