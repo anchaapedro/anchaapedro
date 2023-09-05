@@ -19,7 +19,7 @@ Join me on this exciting journey of design and structure, where creativity knows
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="30" width="40" align="center" alt="ancha-Sass"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height="30" width="40" align="center" alt="ancha-Linux"/>
     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" eight="30" width="40" align="center" alt="ancha-Linux" />
           
           
       
