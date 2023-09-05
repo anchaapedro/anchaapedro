@@ -11,7 +11,7 @@ Join me on this exciting journey of design and structure, where creativity knows
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anchaapedro&bg_color=0d1117&color=101BE5FF&line=101BE5FF&point=94BFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anchaapedro&bg_color=0d1117&color=101BE5FF&line=101BE5FF&point=94BFFFFF&area=true&hide_border=true)](https://github.com/anchaapedro/github-readme-activity-graph)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
