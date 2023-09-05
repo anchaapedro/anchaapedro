@@ -18,7 +18,7 @@ Join me on this exciting journey of design and structure, where creativity knows
   <img align="center" alt="Rafa-CSS" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="30" width="40" align="center" alt="ancha-Sass"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height="30" width="40" align="center" alt="ancha-Linux"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40" align="center" alt="ancha-c" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="40" align="center" alt="ancha-c" />/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="40" align="center" alt="ancha-c"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="30" width="40" align="center" alt="ancha-c"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="30" width="40" align="center" alt="ancha-c"/>
