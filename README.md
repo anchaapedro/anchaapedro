@@ -1,7 +1,7 @@
 ##  Anime Devotee by Day, Code Sorceress by Night 🌙✨ 
 
 OHAYOO! 🐉🎌
-I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and architecture! 🏰 With an insatiable thirst for knowledge, I'm eager to unravel the mysteries of React and Vue.js in the near future! 🔍 
+I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and architecture! 🏰 With an insatiable thirst for knowledge, I'm eager to unravel the mysteries of JAVASCRIPT  in the near future! 🔍 
 Join me on this exciting journey of design and structure, where creativity knows no bounds. 
 
 
@@ -16,7 +16,7 @@ Join me on this exciting journey of design and structure, where creativity knows
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="30" width="40" align="center" alt="Eusebio-Sass"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"  height="30" width="40" align="center" alt="ancha-Sass"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  height="30" width="40" align="center" alt="Eusebio-Linux"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  height="30" width="40" align="center" alt="Eusebio-GitHub"/>
   
