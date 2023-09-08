@@ -5,8 +5,8 @@ I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and Javascr
 Join me on this exciting journey of design and structure, where creativity knows no bounds. 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&count_private=true&hide_border=true&title_color=101BE5FF&icon_color=101BE5FF&text_color=#fff&bg_color=0d1117" alt="Stanley Nhampossa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&hide_border=true&title_color=ff91a4&text_color=101BE5FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&count_private=true&hide_border=true&title_color=101BE5FF&icon_color=101BE5FF&text_color=#fff&bg_color=0d1117" alt="Ancha Pedro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&hide_border=true&title_color=ff91a4&text_color=#fff&bg_color=0d1117" />
 </div>
         
  </div>
