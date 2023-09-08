@@ -8,9 +8,9 @@ Join me on this exciting journey of design and structure, where creativity knows
 <div>
   <div align="center" dir="auto">
     <a href="https://github.com/anchaapedro">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anchaapedro&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&amp;layout=compact&amp;langs_count=7&amp;theme=github_dark" style="max-width: 100%;">
-        <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anchaapedro" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anchaapedro&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;" style="max-width: 100%;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anchaapedro&amp;show_icons=true&amp;theme=transparent&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&amp;layout=compact&amp;langs_count=7&amp;theme=transparent" style="max-width: 100%;">
+        
     </a>
  </div>
 
