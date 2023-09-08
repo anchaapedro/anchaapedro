@@ -11,7 +11,6 @@ Join me on this exciting journey of design and structure, where creativity knows
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anchaapedro&amp;show_icons=true&amp;theme=blue_navy&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&amp;layout=compact&amp;langs_count=7&amp;theme=transparent" style="max-width: 100%;">
         
-    </a>
  </div>
 
 
