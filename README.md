@@ -1,7 +1,7 @@
 ##  Anime Devotee by Day, JS Sorceress by Night 🌙✨ 
 
 OHAYOO! 🐉🎌
-I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and architecture! 🏰 With an insatiable thirst for knowledge, I'm eager to unravel the mysteries of JAVASCRIPT  in the near future! 🔍 
+I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and Javascript. 
 Join me on this exciting journey of design and structure, where creativity knows no bounds. 
 
 
