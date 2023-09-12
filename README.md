@@ -1,4 +1,4 @@
-##  Anime Devotee by Day, Coder by Night 🌙✨ 
+##  DID U WROTE YOUR CODE TODAY? 
 
 OHAYOO! 🐉🎌
 I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and Javascript. 
