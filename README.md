@@ -1,7 +1,7 @@
 ##  DID U WROTE YOUR CODE TODAY? 
 
 OHAYOO! 🐉🎌
-I'm Ancha Pedro, passionately exploring the enchanting realms of CSS and Javascript. 
+I'm Ancha Pedro, passionately exploring the enchanting realms of FRONTEND and JAVASCRIPT. 
 Join me on this exciting journey of design and structure, where creativity knows no bounds. 
 
 <div align="center">  
