@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/> <br><br>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,javascript,python,css,vue,tailwind,sass,linux,gitlab,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,css,vue,tailwind,sass,gitlab,git" />
   </a>
 </p>
 </div>
