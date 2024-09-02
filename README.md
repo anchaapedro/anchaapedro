@@ -1,10 +1,10 @@
-##  DID U WROTE YOUR CODE TODAY? 
+##  FRONTEND DEVELOPER  
 
 
 <div align="center">  
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,vue,react,css,tailwind,gitlab,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,react,css,tailwind,bootstrap,SAAS,gitlab,git" />
   </a>
 </p>
 </div>
