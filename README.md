@@ -1,14 +1,17 @@
-##  FRONTEND DEVELOPER  
-
-
-<div align="center">  
+<div align="center"> 
+  <h1>Frontend Developer</h1>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,vue,nuxt,react,css,tailwind,bootstrap,gitlab,git,linux" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,react,css,tailwind,bootstrap,jest,html,gitlab,git,linux,figma" />
   </a>
 </p>
 </div>
-        
+    <div align="center">
+  <a href="https://beacons.ai/anchaapedro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&langs_count=16&theme=monokai"/>
+</div>
+  
  </div>
 
       
