@@ -3,7 +3,7 @@
   <p align="center">
     <p>President at Maputo Frontenders || Frontend Developer || Community management </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,vue,nuxt,css,tailwind,html,git,linux" />
+    <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap,javascript,typescript,vue,nuxt,html,git,linux" />
   </a>
 </p>
 </div>
