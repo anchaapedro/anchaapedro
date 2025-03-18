@@ -3,7 +3,7 @@
   <p align="center">
     <p>Frontend Developer  </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,html,css,tailwind,bootstrap,javascript, react, typescript,vue,git,linux" />
+    <img src="https://skillicons.dev/icons?i=,html,css,tailwind,bootstrap,saas,javascript,react,typescript,vue,git,linux" />
   </a>
 </p>
 </div>
