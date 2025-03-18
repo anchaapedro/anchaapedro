@@ -1,9 +1,9 @@
 <div align="center"> 
   <h1>Frontend Developer</h1>
   <p align="center">
-    <p>President at Maputo Frontenders || Frontend Developer || Community management </p>
+    <p>Frontend Developer  </p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,tailwind,bootstrap,javascript,typescript,vue,nuxt,html,git,linux" />
+    <img src="https://skillicons.dev/icons?i=,html,css,tailwind,bootstrap,javascript, react, typescript,vue,git,linux" />
   </a>
 </p>
 </div>
