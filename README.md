@@ -1,7 +1,5 @@
 <div align="center"> 
-  <h1>Frontend Developer</h1>
-  <p align="center">
-    <p>Frontend Developer  </p>
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,html,css,tailwind,bootstrap,sass,none,javascript,react,typescript,vue,none,git,linux" />
   </a>
