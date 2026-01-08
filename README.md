@@ -1,16 +1,10 @@
 <div align="center"> 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,html,css,tailwind,javascript,react,typescript,vue" />
+    <img src="https://skillicons.dev/icons?i=,javascript,react,typescript,vue" />
   </a>
 </p>
 </div>
-    <div align="center">
-  <a href="https://beacons.ai/anchaapedro">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=anchaapedro&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchaapedro&layout=compact&langs_count=16&theme=aura"/>
-</div>
-  
  </div>
 
       
