@@ -1,7 +1,7 @@
 <div align="center"> 
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,javascript,react,typescript,vue" />
+    <img src="https://skillicons.dev/icons?i=,javascript,react,typescript,vue, python" />
   </a>
 </p>
 </div>
